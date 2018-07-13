@@ -1,0 +1,1 @@
+{'218841799274266626': {'_User__userID': '218841799274266626', '_User__rps_games': 4, '_User__rps_wins': 1, '_User__rps_losses': 3, '_User__rps_game': None}, '133913948163538944': {'_User__userID': '133913948163538944', '_User__rps_games': 4, '_User__rps_wins': 2, '_User__rps_losses': 2, '_User__rps_game': None}}
